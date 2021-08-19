@@ -1,0 +1,9 @@
+﻿  contact.c
+c:\users\miachael_wxy\desktop\c语言\contact\contact\contact.c(158): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+c:\users\miachael_wxy\desktop\c语言\contact\contact\contact.c(162): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const int *”
+c:\users\miachael_wxy\desktop\c语言\contact\contact\contact.c(164): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+c:\users\miachael_wxy\desktop\c语言\contact\contact\contact.c(166): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+c:\users\miachael_wxy\desktop\c语言\contact\contact\contact.c(168): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+  test.c
+  正在生成代码...
+  Contact.vcxproj -> C:\Users\miachael_wxy\Desktop\C语言\Contact\Debug\Contact.exe
