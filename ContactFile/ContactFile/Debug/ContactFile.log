@@ -1,0 +1,4 @@
+﻿  contact.c
+c:\users\miachael_wxy\desktop\c语言\contactfile\contactfile\contact.c(7): warning C4133: “=”: 从“contact *”到“PeopleInfo *”的类型不兼容
+c:\users\miachael_wxy\desktop\c语言\contactfile\contactfile\contact.c(29): warning C4133: “=”: 从“contact *”到“PeopleInfo *”的类型不兼容
+  ContactFile.vcxproj -> C:\Users\miachael_wxy\Desktop\C语言\ContactFile\Debug\ContactFile.exe
